@@ -47,7 +47,7 @@
 		<div class="container-fluid">
 			<a class="navbar-brand "
 				href='<c:url value = "index.htm?language=${pageContext.response.locale}"/>'>
-				<img src="${company.logoNavImg }" alt="Logo">
+				<img src="assets/img/logo.jpg" alt="Logo">
 			</a>
 		</div>
 	</nav>
@@ -66,7 +66,7 @@
 					<div class="mb-lg-9 mb-5">
 						<h1 class="mb-1 h2 fw-bold">Sign up</h1>
 						<p>
-							Welcome to <span class="text-warning">Tad Garden!</span> Enter
+							Welcome to <span class="text-warning">Foot Flower!</span> Enter
 							your email to get started.
 						</p>
 					</div>
