@@ -11,17 +11,17 @@
 						http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
 	<bean id="poly" class="tad.bean.Company">
-		<property name="logoNavImg" value="assets/img/logo.jpg" />
+		<property name="logoNavImg" value="assets/img/logo.png" />
 		<property name="slider1Img" value="assets/img/slide_1.jpg" />
 		<property name="slider2Img" value="assets/img/slide_2.jpg" />
 		<property name="logoFooterImg"
-			value="assets/img/logo_white.png" />
+			value="assets/img/logo_hong.png" />
 		<property name="banner1" value="assets/img/banner_1.png" />
 		<property name="banner2" value="assets/img/banner_2.jpg" />
-		<property name="phoneNumber" value="0376475278" />
+		<property name="phoneNumber" value="0363345492" />
 		<property name="gmail"
-			value="tvphuong1645@gmail.com" />
-		<property name="address" value="97 Man Thiện" />
+			value="daicaxom3@gmail.com" />
+		<property name="address" value="100 Hiệp Bình" />
 	</bean>
 
 

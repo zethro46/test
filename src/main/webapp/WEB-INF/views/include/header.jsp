@@ -6,7 +6,7 @@
 	<div class="container">
 		<a class="navbar-brand "
 			href='<c:url value = "index.htm?language=${pageContext.response.locale}"/>'>
-			<img src="${company.logoNavImg }" alt="Logo">
+			<img src="${company.logoNavImg }" alt="Logo" height="60">
 		</a>
 
 
