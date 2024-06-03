@@ -61,6 +61,6 @@
 
 
 <!-- Icon and Name -->
-<title>FootFlower Shop</title>
+<title>Foot Flower</title>
 <link rel="icon" type="image/x-icon" href="assets/img/icon.png">
 </head>
